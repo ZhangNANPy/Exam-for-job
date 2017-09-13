@@ -26,7 +26,13 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Exam4Job.py" />
+    <Compile Include="jrtt1.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="neteasy1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tencent1.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
