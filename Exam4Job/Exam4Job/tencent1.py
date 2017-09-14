@@ -15,7 +15,10 @@ for i in range(len(n)):
         tempList.append(1)
 if flag == '1':
     del tempList[len(tempList) - 1]
+resl = []
+for i in range(0, len(tempList), 2):
+    resl.append(tempList[i] * tempList[i+1] + 1)
 re = 1
-for i in tempList:
+for i in resl:
     re *= i
-print(re + int(len(tempList)/2))
+print(re)
