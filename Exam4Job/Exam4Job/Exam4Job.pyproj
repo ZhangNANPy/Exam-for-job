@@ -26,6 +26,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Exam4Job.py" />
+    <Compile Include="improvedTencent1.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="jrtt1.py">
       <SubType>Code</SubType>
     </Compile>
