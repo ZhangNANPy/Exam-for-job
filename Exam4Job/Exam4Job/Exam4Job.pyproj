@@ -32,6 +32,9 @@
     <Compile Include="jrtt1.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="mix2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="neteasy1.py">
       <SubType>Code</SubType>
     </Compile>
