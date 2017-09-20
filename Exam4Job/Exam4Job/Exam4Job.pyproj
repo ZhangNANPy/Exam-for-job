@@ -38,7 +38,13 @@
     <Compile Include="neteasy1.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="quna3.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="tencent1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="thunder1.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
