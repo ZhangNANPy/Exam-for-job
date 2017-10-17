@@ -26,10 +26,16 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Exam4Job.py" />
+    <Compile Include="guanzi1.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="improvedTencent1.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="jrtt1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="kugou1.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="mix2.py">
@@ -45,6 +51,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="thunder1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="xiaohongshu2.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
