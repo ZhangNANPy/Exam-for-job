@@ -25,6 +25,9 @@
     <Compile Include="amazon3.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="bank.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Exam4Job.py" />
     <Compile Include="guanzi1.py">
       <SubType>Code</SubType>
